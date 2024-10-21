@@ -6,7 +6,7 @@ This project involves analyzing and visualizing Diwali sales data to gain insigh
 ## Features
 - **Data Cleaning:** Cleaning the dataset to handle missing values, duplicates, and inconsistent data types.
 - **Exploratory Data Analysis (EDA):** Analyzing sales data to identify trends, patterns, and outliers.
-- **Sales Segmentation:** Segmenting customers and products based on various criteria such as age, gender, and product category.
+- **Sales Segmentation:** Segmenting customers and products based on various criteria such as age, gender, User_ID,	Customer_name,	Product_ID,	Marital Status,	State	Zone,	Occupation etc
 - **Visualization:** Creating visual representations of sales trends using Matplotlib and Seaborn to provide actionable insights.
 
 ## Tools and Libraries
